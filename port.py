@@ -24,27 +24,32 @@ for k in range(1):
     #print("a: "+str(a))
 print(sequence)
 sequence = []
+list = []
 
 for k in range(4):
     a = function(k,a)
     #print("a: "+str(a))
 print(sequence)
 sequence = []
+list = []
 
 for k in range(8):
     a = function(k,a)
     #print("a: "+str(a))
 print(sequence)
 sequence = []
+list = []
 
 for k in range(16):
     a = function(k,a)
     #print("a: "+str(a))
 print(sequence)
 sequence = []
+list = []
 
 for k in range(32):
     a = function(k,a)
     #print("a: "+str(a))
 print(sequence)
 sequence = []
+list = []
