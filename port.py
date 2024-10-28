@@ -1,5 +1,4 @@
 a = 0
-k = 1
 list = []
 sequence = []
 def function(k,a):
@@ -19,7 +18,33 @@ def function(k,a):
         a = a+k
     sequence = sequence +[a]
     return a
-for k in range(10):
+
+for k in range(1):
     a = function(k,a)
-    print("a: "+str(a))
+    #print("a: "+str(a))
 print(sequence)
+sequence = []
+
+for k in range(4):
+    a = function(k,a)
+    #print("a: "+str(a))
+print(sequence)
+sequence = []
+
+for k in range(8):
+    a = function(k,a)
+    #print("a: "+str(a))
+print(sequence)
+sequence = []
+
+for k in range(16):
+    a = function(k,a)
+    #print("a: "+str(a))
+print(sequence)
+sequence = []
+
+for k in range(32):
+    a = function(k,a)
+    #print("a: "+str(a))
+print(sequence)
+sequence = []
