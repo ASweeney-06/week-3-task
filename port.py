@@ -25,31 +25,36 @@ for k in range(1):
 print(sequence)
 sequence = []
 list = []
+a = 0
 
-for k in range(4):
-    a = function(k,a)
+for z in range(4):
+    a = function(z,a)
     #print("a: "+str(a))
 print(sequence)
 sequence = []
 list = []
+a = 0
 
-for k in range(8):
-    a = function(k,a)
+for f in range(8):
+    a = function(f,a)
     #print("a: "+str(a))
 print(sequence)
 sequence = []
 list = []
+a = 0
 
-for k in range(16):
-    a = function(k,a)
+for j in range(16):
+    a = function(j,a)
     #print("a: "+str(a))
 print(sequence)
 sequence = []
 list = []
+a = 0
 
-for k in range(32):
-    a = function(k,a)
+for o in range(32):
+    a = function(o,a)
     #print("a: "+str(a))
 print(sequence)
 sequence = []
 list = []
+a = 0
